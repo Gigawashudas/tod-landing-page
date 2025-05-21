@@ -192,6 +192,6 @@ img {
     height: 100%;
 }
 
-.text {
+.text p, .text h2 {
     color: white;
 }
